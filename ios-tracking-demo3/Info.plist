@@ -6,5 +6,13 @@
 	<array>
 		<string>location</string>
 	</array>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>We need access to your location in the background to track your journey, send notifications when members enter or exit specific locations, and provide real-time location sharing within your group.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We need access to your location in the background to continuously track your journey and send notifications when group members enter or exit specified locations, even when the app is not in use.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need access to your location to allow you to share your real-time position with group members and track your journey history while using the app.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>This app needs motion access to detect activity.</string>
 </dict>
 </plist>

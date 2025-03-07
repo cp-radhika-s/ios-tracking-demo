@@ -273,7 +273,6 @@
 				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "We need access to your location in the background to continuously track your journey and send notifications when group members enter or exit specified locations, even when the app is not in use.";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We need access to your location to allow you to share your real-time position with group members and track your journey history while using the app.";
 				INFOPLIST_KEY_NSMotionUsageDescription = "This app needs motion access to detect activity.";
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -307,7 +306,6 @@
 				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "We need access to your location in the background to continuously track your journey and send notifications when group members enter or exit specified locations, even when the app is not in use.";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We need access to your location to allow you to share your real-time position with group members and track your journey history while using the app.";
 				INFOPLIST_KEY_NSMotionUsageDescription = "This app needs motion access to detect activity.";
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";

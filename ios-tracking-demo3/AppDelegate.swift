@@ -10,6 +10,9 @@ import SwiftUI
 
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
+    var window: UIWindow?
+
+    
     func applicationWillTerminate(_ application: UIApplication) {
         //print("applicationWillTerminate")
         TrackingManager.shared.applicationWillTerminate()
